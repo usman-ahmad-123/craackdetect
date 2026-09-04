@@ -225,12 +225,11 @@ It also helped me better understand how AI can be applied to real-world engineer
 
 # Author
 
-Sayed Muhammad Muiz Halimi
+Md Usman Ahmad
 
 Background:
 - Civil Engineering
 - Construction Engineering and Management
-- Artificial Intelligence
 
 Interests:
 - Computer Vision
@@ -238,8 +237,3 @@ Interests:
 - AI for Civil Engineering
 - Robotics and Automation
 
----
-
-# Disclaimer
-
-This project was developed for educational and research purposes. The model performance may vary depending on image quality, lighting conditions, camera angle, and crack visibility.
